@@ -2,8 +2,6 @@
 
 A fun and interactive Flutter app that lets you roll a virtual dice! Perfect for games, decision making, or just having fun.
 
-![Dice Rolling Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6bWF2Y3Fyd2t1OWF4OWF0Y2RxdXBxbGx6Yzk4NmF1NzBiYnBxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTF0lXCrXBGkI2k/giphy.gif)
-
 ## ✨ Features
 
 - 🎯 Interactive dice rolling with a tap
